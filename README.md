@@ -69,6 +69,14 @@ docker-compose up --build
 
 ---
 
+## 📦 Docker Image (Repsy Container Registry)
+
+Bu uygulamanın Docker imajı, Repsy Container Registry üzerinde yayınlanmıştır:
+
+```bash
+docker pull repo.repsy.io/burakkoc/fullstackdevassignment/fullstackapp:latest
+```
+
 ## 📚 API Belgeleri
 
 Tüm endpoint'ler Swagger/OpenAPI arayüzü ile belgelenmiştir:
