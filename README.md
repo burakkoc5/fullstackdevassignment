@@ -65,8 +65,7 @@ docker-compose up --build
 ### 2. Servisler:
 - **http://localhost:8080** → Uygulama API
 - **http://localhost:9001** → MinIO Panel (kullanıcı: `minioadmin`)
-- **PostgreSQL:** `localhost:5432` (kullanıcı: `postgres`, şifre: `password`)
-
+- **PostgreSQL:** `localhost:5433` (kullanıcı: `postgres`, şifre: `password`)
 ---
 
 ## 📦 Docker Image (Repsy Container Registry)
